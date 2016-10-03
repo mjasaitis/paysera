@@ -34,4 +34,4 @@ Fizinio asmens vartotojo klasė, paveldinti User klasę, skirta fizinio asmens g
 Juridinio asmens vartotojo klasė, paveldinti User klasę, skirta juridinio asmens grynųjų pinigų operacijų komisinių paskaičiavimui.
 
 ###App
-Klasė nuskaito pradinius duoemnis, sukuria vartototus ir kiekvienai vartotojo operacijai paskaičiuoja komisinius.
+Klasė nuskaito pradinius duomenis, sukuria vartototus ir kiekvienai vartotojo operacijai paskaičiuoja komisinius.
