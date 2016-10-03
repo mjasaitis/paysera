@@ -1,3 +1,7 @@
+##Sistemos node modulių instaliavimui įvykdykite komandą:
+```
+npm install
+```
 ##Sistemos paleidimui įvykdykite komandą:
 ```
 npm start
