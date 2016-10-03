@@ -14,7 +14,7 @@ npm test
 ##Sistemos aprašymas:
 
 Duomenų įvesties byla nurodoma package.json parametre "scripts.start", pavyzdyje - "input.json" 
-Konfiguracija nuskaitoma iš API ( url patiekti užduotyje )
+Konfiguracija nuskaitoma iš API ( url pateikti užduotyje )
 
 ##Klasės
 
